@@ -1,0 +1,16 @@
+.todo-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  .todo-container header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .controls {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+  }
+  

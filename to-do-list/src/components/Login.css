@@ -1,0 +1,19 @@
+.login-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  .login-container input {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 8px;
+  }
+  .login-container button {
+    padding: 10px 20px;
+  }
+  .link {
+    color: blue;
+    cursor: pointer;
+  }
+  

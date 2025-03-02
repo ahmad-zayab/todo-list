@@ -1,0 +1,8 @@
+.task-list {
+    list-style: none;
+    padding: 0;
+  }
+  .no-tasks {
+    color: #777;
+  }
+  
